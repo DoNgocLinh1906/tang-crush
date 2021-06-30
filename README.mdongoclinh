@@ -1,0 +1,30 @@
+# Tặng Bạn
+## _Một điều nho nhỏ muốn nói_
+
+Liên lạc: 
+[![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/nam.nodemy)
+[![Tiktok](https://i.imgur.com/Nbfl1E7t.jpg)](https://www.tiktok.com/@manindev)
+
+Mở file config.js sửa nội dung theo mẫu
+```
+const CONFIG = {
+    introTitle: 'Hello!',
+    introDesc: `Trái đất vốn lạ thường
+    Hồ Tây thì lộng gió
+    Lạc vào thì ối dồi ôi luôn
+    Tuy nhiên nếu cùng nhau lạc vào thì thật hạnh phúc`,
+    btnIntro: 'hihi',
+    title: 'Ở nhà chán quá 😙',
+    desc: 'Vậy đi Hồ Tây cùng nhau khôngg ',
+    btnYes: 'Không đj <33',
+    btnNo: 'Okee hjhj :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao tôi lại chọn bạn  <3',
+    btnReply: 'Vì tui thích thế',
+    reply: 'Thích thì thích mà không thích thì thích <33333333',
+    mess: 'Hmm 🥰. Okee 😘😘',
+    messDesc: 'Đùa thôi chứ vẫn đi Hồ Tây nhé.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'http://fb.com' //dongoclinh.
+}
+```
+
